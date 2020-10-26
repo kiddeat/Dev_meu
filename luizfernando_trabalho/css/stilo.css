@@ -1,0 +1,40 @@
+
+    .circle {
+        background-color: #aaa;
+        border-radius: 50%;
+        width: 90px;
+        height: 90px;
+        overflow: hidden;
+        position: absolute;
+        top: 5px;
+      }
+      
+      .circle img {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+      }
+h2{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: white;
+}
+body{
+    background-color:#e3f2fd;
+}
+#principal{
+    margin-top: 100px;
+    width: 600px;
+    left: 300px;
+    border: 1px solid #ccc;
+    
+}
+
+footer h2{
+    text-align: center;
+    color: black;
+    background-color: #b2dfdb;
+
+}
+#contatos{
+    margin-left: 30px;
+}
